@@ -5,7 +5,7 @@ Credit to Miguel Grinberg for "The Flask Mega Tutorial" which provided the found
 
 ## Objective
 
-This repository is your guide to mastering Flask, a Python tool for website development, by stepping through a tutorial series and documenting lessons learned along the way. We'll carefully go through each tutorial step, closely examining the provided code examples to learn important lessons. Below is some of what we'll cover:
+This repository purpose of this tutorial is to be a guide for mastering Flask, a Python tool for website development, by stepping through a tutorial series and documenting lessons learned along the way. I will be carefully going through each tutorial step and closely examining the provided code examples so we can learn important lessons. Below is some of what we'll cover:
 
 - **Understanding Flask**: Exploring Flask's essence and its significance in website development.
 - **Setting Up the Environment**: Detailing the setup process for the development environment tailored for Flask.
