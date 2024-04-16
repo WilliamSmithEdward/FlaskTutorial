@@ -69,6 +69,11 @@ def index():
 from app import app
 ```
 
+### Install python-dotenv
+```shell
+pip install python-dotenv
+```
+
 ### Create .flaskenv: Environment variables for flask command
 ```python
 FLASK_APP=microblog.py
